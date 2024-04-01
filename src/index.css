@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+a,
+p,
+h1,
+h2,
+h3
+{
+  font-family: "rublik", sans-serif;
+}
+html {
+  scroll-behavior: smooth;
+}
